@@ -2,7 +2,7 @@
 ## Transcribed by ZdrytchX
 Original song: https://fearofdark.bandcamp.com/track/hopeless-romantic
 
-ESCs all end the melody at different times, so you will hear the confirmation tone out of sync. Reason for this is I ran out of notes :C
+ESCs all end the melody at different times, so you will hear the confirmation tone out of sync. Reason for this is I ran out of notes :C  
 Also it sounds shit in ESC-configurator but doesn't sound too bad IRL especially if you lay the quad on a hard table surface. I had to retune it to fit the 0802 motors and ESC frequency.
 
 ## ESC 1 (Arpeggio)
