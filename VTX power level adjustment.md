@@ -19,4 +19,4 @@ vtxtable powervalues 1 2 3 4 0
 vtxtable powerlabels 25 100 200 400 PIT
 ```
 
-One final side note, there's an issue with Matrix 1S II board firmwares that prevents them from setting up a custom VTX power level after arming. No clue when/if this will get fixed, it can be an issue in races that mandate 25mW transmission power limits.
+One final side note, there's currently an issue with Matrix 1S II board firmwares that prevents them from setting up a custom VTX power level after arming or saving to memory. No clue when/if this will get fixed.
