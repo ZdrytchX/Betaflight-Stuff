@@ -1,5 +1,4 @@
-# Hopeless Romantic - Fearofdark
-## Transcribed by ZdrytchX
+# Hopeless Romantic - Fearofdark - Transcribed by ZdrytchX
 Original song: https://fearofdark.bandcamp.com/track/hopeless-romantic
 
 ESCs all end the melody at different times, so you will hear the confirmation tone out of sync. Reason for this is I ran out of notes :C  
@@ -15,4 +14,19 @@ Melody:b=560,o=4,d=32:c7,b6,f6,c#6,a#5,g5,e5,d5,c5,b,8a#.,2p,c7,b6,f6,c#6,a#5,g5
 Melody:b=560,o=4,d=32:1p,1p,1p,1p,1p,c7,b6,f6,c#6,a#5,g5,e5,d5,c5,b,8a#.,2p,c7,b6,f6,c#6,a#5,g5,e5,d5,c5,b,8a#.,2p,c7,b6,f6,c#6,a#5,g5,e5,d5,c5,b,8a#.,2p,c7,b6,f6,c#6,a#5,g5,e5,d5,c5,b,8a#.,4a#,4a#5,2a#,1c5,4c5
 
 ## ESC 4 (Melody)
-Melody:b=280,o=5,d=16:4p,4g#,32c#6,32d6,d#6,8d#6,4p,32c#6,32d6,d#6,8d#6,8g#,g#,g#4,8g4,8g#4,32c#6,32d#6,d#6,8d#6,4d#6,d#6,c#6,d#6,8c#6,4c6,g#,a#,8a#,4a#,8g#,8p,8g,g,g#,4f,8f,f,g,32g,f,32f,8d#,d#,g#4,8g4,8g#4,d,2d#,d,32c#,32c,b4
+Melody:b=280,o=5,d=16:4p,4g#,32c#6,32d6,d#6,8d#6,4p,32c#6,32d6,d#6,8d#6,8g#,g#,g#4,8g4,8g#4,32c#6,32d6,d#6,8d#6,4d#6,d#6,c#6,d#6,8c#6,4c6,g#,a#,8a#,4a#,8g#,8p,8g,g,g#,4f,8f,f,g,32g,f,32f,8d#,d#,g#4,8g4,8g#4,d,2d#,d,32c#,32c,b4
+
+# Pokemon Gold - Transcribed by ZdrytchX
+Wild Pokemon Battle theme (Johto, Gold/Silver/Crystal)
+
+## ESC1 (Split melody)
+pokegold1:d=16,o=4,b=184:f,f#,g,g6,f,f#,g,g6,f,f#,g,g6,f,f#,g,g6,1p,4g4,8p,4d,8p,4g,4f,4f#,4g,4p,4g#,8p,4d4,8p,4g#4,4f4,4g4,2g#4,2g5
+
+## ESC2 (Intro)
+pokegold2:d=16,o=4,b=184:c5,b,a#,a,a#,a,g#,g,g#,g,f#,f,f#,f,e,d#,e,d#,d,c#,d,c#,c,b3,c,b3,a#3,a3,a#3,b3,c,c#,1p,1p,1p,1p,2g
+
+## ESC3 (Split melody)
+pokegold3:d=16,o=4,b=184:1p,f,f#,g,g6,f,f#,g,g6,f,f#,g,g6,f,f#,g,g6,4d4,8p,4b3,8p,4d,4c,4c#,4d,4p,4d#4,8p,4b3,8p,4d#,4c,4d,2d#,2d5
+
+## ESC4 (bass)
+pokegold4:d=8,o=3,b=184:1p,1p,d,g,d,g,d,g,d,g,d,g,d,g,d,e,f,g,d#,g#,d#,g#,d#,g#,d#,g#,d#,g#,d#,g#,d#,d#,g,f,2d
